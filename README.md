@@ -1,35 +1,35 @@
 
   # Project Title
-  Title
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
   
   # Description
-  Description
+  
   
   # Table of Contents 
-  * [Installation](#-installation)
-  * [Usage](#-usage)
-  * [License](#-license)
-  * [Contributing](#-contributing)
-  * [Tests](#-tests)
-  * [Questions](#-questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
       
   # Installation
-  Instructions
+  
   
   # Usage
-  Info
+  
   
   # License 
-  Apache 2.0
+  GNU AGPLv3
   
   # Contributing 
-  Guidelines
+  
   
   # Tests
-  Testing
+  
   
   # Questions
-  * GitHub Username: [ryanharrishtx](https://www.github.com/ryanharrishtx)
-  * Contact Email: ryanharrishtx@gmail.com
+  * GitHub Username: [](https://www.github.com/)
+  * Contact Email: 
   
